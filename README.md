@@ -2,14 +2,15 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Yuri Fernandes, tenho 30 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (ultimo período).
+Me chamo Yuri Fernandes, tenho 30 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (último período).
 
 Sou apaixonado por tecnologia, gosto de resolver problemas através da programação e acredito no poder do software para transformar vidas. Atuo como **freelancer**, desenvolvendo sistemas sob demanda — tanto web quanto **aplicações desktop** — e sempre que possível, ajudo pessoas com meus sistemas, mesmo quando elas não podem pagar por isso. Para mim, usar a tecnologia para facilitar a vida de alguém é uma das maiores recompensas da profissão.
 
+---
+
+### 🌐 Onde me encontrar
 
 <p align="left">
-   
-
     <a href="https://yurioliveira.netlify.app/">
         <img 
             alt="Portfólio" 
@@ -18,10 +19,10 @@ Sou apaixonado por tecnologia, gosto de resolver problemas através da programa�
         />
     </a>
 
-    <a href="https://github.com/Yuri-Fernandes-dev?tab=followers">
+    <a href="https://github.com/Yuri-Fernandes-dev">
         <img 
-            alt="Seguidores" 
-            title="Siga-me no GitHub" 
+            alt="GitHub" 
+            title="Acesse meu GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Yuri-Fernandes-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"
         />
     </a>
@@ -34,7 +35,6 @@ Sou apaixonado por tecnologia, gosto de resolver problemas através da programa�
         />
     </a>
 </p>
-
 
 ---
 
@@ -55,8 +55,11 @@ Sou apaixonado por tecnologia, gosto de resolver problemas através da programa�
 <br/>
 <br/>
 
+---
 
 ### 📊 Estatísticas
+
+> 💡 *Nota: Meu foco atual é Java (Spring Boot) e Angular, mas os gráficos abaixo consideram todos os repositórios públicos.*
 
 <p>
   <img 
@@ -67,10 +70,10 @@ Sou apaixonado por tecnologia, gosto de resolver problemas através da programa�
     src="https://github-readme-stats.vercel.app/api?username=Yuri-Fernandes-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Fernandes-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Fernandes-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
