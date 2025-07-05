@@ -2,7 +2,10 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Yuri Fernandes, tenho 30 anos e sou natural do Rio de Janeiro. Concluí o ensino médio com curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia e compartilho meu conhecimento através da internet, criando projetos web e estudando constantemente para evoluir na área.
+Me chamo Yuri Fernandes, tenho 30 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (ultimo período).
+
+Sou apaixonado por tecnologia, gosto de resolver problemas através da programação e acredito no poder do software para transformar vidas. Atuo como **freelancer**, desenvolvendo sistemas sob demanda — tanto web quanto **aplicações desktop** — e sempre que possível, ajudo pessoas com meus sistemas, mesmo quando elas não podem pagar por isso. Para mim, usar a tecnologia para facilitar a vida de alguém é uma das maiores recompensas da profissão.
+
 
 <p align="left">
     <a href="https://www.youtube.com/@SEU_CANAL_AQUI?sub_confirmation=1">
