@@ -8,35 +8,33 @@ Sou apaixonado por tecnologia, gosto de resolver problemas através da programa�
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@SEU_CANAL_AQUI?sub_confirmation=1">
+   
+
+    <a href="https://yurioliveira.netlify.app/">
         <img 
-            alt="Inscreva-se no canal" 
-            title="YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-SEU-ID?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="Portfólio" 
+            title="Acesse meu portfólio" 
+            src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@SEU_CANAL_AQUI">
-        <img 
-            alt="Visualizações no YouTube" 
-            title="Visualizações" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-SEU-ID?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Yuri-Fernandes-dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Yuri-Fernandes-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+
     <a href="https://github.com/Yuri-Fernandes-dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Siga-me no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Yuri-Fernandes-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Yuri-Fernandes-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"
+        />
+    </a>
+
+    <a href="https://www.linkedin.com/in/yuri-fernandes-jr/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
+
 
 ---
 
