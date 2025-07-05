@@ -10,31 +10,17 @@ Sou apaixonado por tecnologia, gosto de resolver problemas através da programa�
 
 ### 🌐 Onde me encontrar
 
-<p align="left">
-    <a href="https://yurioliveira.netlify.app/">
-        <img 
-            alt="Portfólio" 
-            title="Acesse meu portfólio" 
-            src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=white"
-        />
-    </a>
+<a href="https://yurioliveira.netlify.app/">
+  <img alt="Portfólio" title="Acesse meu portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
 
-    <a href="https://github.com/Yuri-Fernandes-dev">
-        <img 
-            alt="GitHub" 
-            title="Acesse meu GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Yuri-Fernandes-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"
-        />
-    </a>
+<a href="https://github.com/Yuri-Fernandes-dev">
+  <img alt="GitHub" title="Acesse meu GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Yuri-Fernandes-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white" />
+</a>
 
-    <a href="https://www.linkedin.com/in/yuri-fernandes-jr/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/yuri-fernandes-jr/">
+  <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
