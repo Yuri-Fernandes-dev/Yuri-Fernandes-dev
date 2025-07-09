@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia, gosto de resolver problemas através da programa�
   <img alt="Portfólio" title="Acesse meu portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 
-<a href="https://github.com/Yuri-Fernandes-dev">
+<a href="https://github.com/Yuri-Fernandes-dev?tab=repositories">
   <img alt="GitHub" title="Acesse meu GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Yuri-Fernandes-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white" />
 </a>
 
